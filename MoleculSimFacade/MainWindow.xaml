@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Image/>
+        <Image Source="/832598000051159041.gif"/>
         <Button Content="Завершить симуляцию" Height="20" Width="150" Margin="640,404,10,10" Click="EndSim"/>
     </Grid>
 </Window>
