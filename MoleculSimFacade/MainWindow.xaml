@@ -1,0 +1,13 @@
+﻿<Window x:Class="MoleculSimFacade.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MoleculSimFacade"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image/>
+        <Button Content="Завершить симуляцию" Height="20" Width="150" Margin="640,404,10,10" Click="EndSim"/>
+    </Grid>
+</Window>
